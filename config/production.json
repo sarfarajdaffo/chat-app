@@ -1,0 +1,4 @@
+{
+	"MONGO_URL" : "mongodb://localhost:27017/testStructure",
+	"SERVER_PORT" : 9905
+}

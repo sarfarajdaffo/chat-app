@@ -1,0 +1,25 @@
+{
+  "name": "node_structure1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sarfaraj",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "config": "^1.24.0",
+    "express": "^4.14.0",
+    "mongoose": "^4.6.8",
+    "pinjs": "^1.0.1",
+    "request": "^2.79.0",
+    "twitter": "^1.4.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-nodemon": "^0.4.2",
+    "nodemon": "^1.11.0"
+  }
+}
