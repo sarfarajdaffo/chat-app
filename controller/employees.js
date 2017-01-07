@@ -1,3 +1,4 @@
+//employee controller
 var employeeModel = require('../model/employee.js');
 
 // Method to add employee changes
